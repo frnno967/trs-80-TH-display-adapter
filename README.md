@@ -1,5 +1,5 @@
 # Digital Video Display Adapter for the TRS-80 Model 3 or Model 4
-A through-hole remix of [Matt Boytim's TRS-80 FPGA Digital Video display adapter.](https://orionfans.com/oa254ec-series/) Created with EasyEDA.
+A through-hole remix of [Matt Boytim's TRS-80 FPGA Digital Video display adapter.](https://github.com/maboytim/TRS-80_Display_Adapter/tree/main) Created with EasyEDA.
 
 This remix removes the unused VGA connections, adds some handy powering options, adds additional silkscreen descriptions, and uses all through-hole parts for ease of assembly by the hobbyist.
 
