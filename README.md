@@ -3,9 +3,8 @@ A through-hole remix of [Matt Boytim's TRS-80 FPGA Digital Video display adapter
 
 This remix removes the unused VGA connections, adds some handy powering options, adds additional silkscreen descriptions, and uses all through-hole parts for ease of assembly by the hobbyist.
 
-![trs80DA front](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/efe00a19-359f-412a-af09-5af16472b8fc)
-![trs80DA back](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/4c5183c9-036c-4181-b482-37bf28f4ab27)
-
+![trs80DA front](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/df06c01c-6520-46e6-8814-4b09d0f34983)
+![trs80DA back](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/58cda5c3-4972-4141-b251-43a9efbe860b)
 
 # Minimum Required parts:
 * QTY 1 Tang Nano 9K FPGA board with headers and programmed with bitstream from https://github.com/maboytim/TRS-80_Display_Adapter/tree/main/fpga for the appropriate Model, either 3 or 4.
