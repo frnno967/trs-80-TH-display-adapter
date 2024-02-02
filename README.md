@@ -13,7 +13,7 @@ This remix removes the unused VGA connections, adds some handy powering options,
 * QTY 2 2 Position Male to Male 2.54mm Pin Headers for use with J3 and J5
 * QTY 1 3 Position Male to Male 2.54mm Pin Headers for use with H1
 * QTY 3 2.54mm Jumper Shunts like TE Connectivity 2-881545-2
-* QTY 1 Texas Instruments SN74LV125AN Quad Bus Buff Gate With 3-State Outputs, or equivalent
+* QTY 1 Texas Instruments SN74LV125AN Quad Bus Buff Gate With 3-State Outputs, or equivalent for U1. 
 * QTY 1 L7805 Linear Voltage Regulator, or equivalent DC/DC voltage converter regulator for U3
 * QTY 1 10uF Polarized Electrolytic Capacitor, Radial Leads for C1
 * QTY 2 1uF Polarized Electrolytic Capacitor, Radial Leads for C3 and C4
