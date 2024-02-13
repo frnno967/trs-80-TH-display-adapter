@@ -1,4 +1,4 @@
-# Digital Video Display Adapter for the TRS-80 Model 3 or Model 4
+# Digital Video Display Adapter for the TRS-80 Model 3 and Model 4
 A through-hole remix of [Matt Boytim's TRS-80 FPGA Digital Video display adapter.](https://github.com/maboytim/TRS-80_Display_Adapter/tree/main) Created with EasyEDA.
 
 This remix removes the unused VGA connections, adds some useful powering options, adds additional silkscreen descriptions, and uses all through-hole parts for ease of assembly by the hobbyist.
@@ -19,7 +19,7 @@ This remix removes the unused VGA connections, adds some useful powering options
 * QTY 2 Axial 1K Ohm 1/4 Watt Resistors for R6 and R7
 
 # Additional Optional Parts:
-* QTY 2 6 Position Male to Male 2.54mm Pin Headers for use with H2 / H3 Video Input from Motherboard for direct connection without the CRT Harness, with pass-through connector
+* QTY 2 6 Position Male to Male 2.54mm Pin Headers for use with H2 / H3 Video Input from Motherboard for direct connection without the CRT Harness, with pass-through connector option
 * QTY 1 16 Pin 2x8 Male to Male 2.54mm Pin Headers for use with J4 Option Jumpers for future settings
 * QTY 1 Molex 22-05-1042 Male Right Angle 4 Pin Header for power via system power supply, or for use as pass-thru power. Do not operate power-hungry devices off of 5V output of this connector!
 
