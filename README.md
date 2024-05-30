@@ -6,7 +6,7 @@ This remix removes the unused VGA connections, adds some useful powering options
 ![PXL_20240210_200015781](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/dcea8be8-fc89-47f8-a8f4-8f5aa79d38c9)
 
 # Minimum Required parts:
-* QTY 1 Tang Nano 9K FPGA board with headers and programmed with bitstream from https://github.com/maboytim/TRS-80_Display_Adapter/tree/main/fpga for the appropriate Model, either 3 or 4.
+* QTY 1 Tang Nano 9K FPGA board with headers and programmed with bitstream from above for the appropriate Model, either 3 or 4.
 * QTY 2 24 Pin Female to Male 2.54mm headers for attaching Tang Nano 9K to the PCB
 * QTY 2 2 Position Male to Male 2.54mm Pin Headers for use with J3 and J5
 * QTY 1 3 Position Male to Male 2.54mm Pin Headers for use with H1
