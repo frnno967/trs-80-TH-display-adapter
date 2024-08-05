@@ -13,10 +13,12 @@ This remix removes the unused VGA connections, adds some useful powering options
 * QTY 3 2.54mm Jumper Shunts like TE Connectivity 2-881545-2
 * QTY 1 Texas Instruments SN74LV125AN Quad Bus Buff Gate With 3-State Outputs, or equivalent for U1. 
 * QTY 1 L7805 Linear Voltage Regulator, or equivalent DC/DC voltage converter regulator for U3
-* QTY 1 10uF Polarized Electrolytic Capacitor, Radial Leads for C1
-* QTY 2 1uF Polarized Electrolytic Capacitor, Radial Leads for C3 and C4
-* QTY 1 0.1uF Polarized Electrolytic Capacitor, Radial Leads for C2
+* QTY 1 10uF Capacitor, Radial Leads for C1
+* QTY 2 1uF Capacitor, Radial Leads for C3 and C4
+* QTY 1 0.1uF Capacitor, Radial Leads for C2
 * QTY 2 Axial 1K Ohm 1/4 Watt Resistors for R6 and R7
+
+Mouser Cart with all parts available here: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4506e6a91b
 
 # Additional Optional Parts:
 * QTY 2 6 Position Male to Male 2.54mm Pin Headers for use with H2 / H3 Video Input from Motherboard for direct connection without the CRT Harness, with pass-through connector option
