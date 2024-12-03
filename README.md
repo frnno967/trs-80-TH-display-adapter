@@ -3,7 +3,7 @@ A through-hole remix of [Matt Boytim's TRS-80 FPGA Digital Video display adapter
 
 This remix removes the unused VGA connections, adds some useful powering options, adds additional silkscreen descriptions, and uses all through-hole parts for ease of assembly by the hobbyist.
 
-![PXL_20240210_200015781](https://github.com/frnno967/trs-80-TH-display-adapter/assets/73573576/dcea8be8-fc89-47f8-a8f4-8f5aa79d38c9)
+![Screen Shot 2024-12-02 at 6 18 39 PM](https://github.com/user-attachments/assets/994be5e1-fc78-4b25-95a7-39cf1a062a90)
 
 # Minimum Required parts:
 * QTY 1 Tang Nano 9K FPGA board with headers and programmed with bitstream from above for the appropriate Model, either 3 or 4.
@@ -21,8 +21,8 @@ This remix removes the unused VGA connections, adds some useful powering options
 Mouser Cart with all parts available here: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4506e6a91b
 
 # Additional Optional Parts:
-* QTY 2 6 Position Male to Male 2.54mm Pin Headers for use with H2 / H3 Video Input from Motherboard for direct connection without the CRT Harness, with pass-through connector option
-* QTY 1 16 Pin 2x8 Male to Male 2.54mm Pin Headers for use with J4 Option Jumpers for future settings
+* QTY 2 6 Position Male to Male 2.54mm Pin Headers for use with Video Input from Motherboard for direct connection without the CRT Harness, with pass-through connector option to continue using the harness and output adapter at the same time.
+* QTY 1 16 Pin 2x8 Male to Male 2.54mm Pin Headers for use with J4 Option Jumpers for color settings
 * QTY 1 Molex 22-05-1042 Male Right Angle 4 Pin Header for power via system power supply, or for use as pass-thru power. Do not operate power-hungry devices off of 5V output of this connector!
 
 Special thanks to Matt Boytim and all of the TRS-80 community for creating awesome enhancements like these.
